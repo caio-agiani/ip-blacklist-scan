@@ -6,14 +6,16 @@
  * Website: https://apility.io/
  */
 
+
 extract($_GET);
+define('WEBSITE', 'https://api.apility.net/v2.0/ip/'. $ip .'?items=100');
+define('TOKEN', 'fbe33ac7-ee38-468d-bb07-37ceca3f317a');
 
 if (isset($_GET['ip'])) {
 
     class iPScan {
 
         public function _cURL($url, $post = false, $header = array('')) {
-    
             $ch = curl_init();
             curl_setopt($ch, CURLOPT_URL, $url);
             curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
@@ -32,15 +34,20 @@ if (isset($_GET['ip'])) {
         }
     }
 
-    function color ($hex, $text) {
+    function color($hex, $text) {
         return '<font class="label label-danger" style="background-color:' .$hex. '">' .$text. '</font>';
     }
 
     if (filter_var($ip, FILTER_VALIDATE_IP)) {
         $new = new iPScan;
-        $obj = json_decode($new->_cURL('https://api.apility.net/v2.0/ip/'. $ip .'?items=100', false, array('Content-Type: application/json','X-Auth-Token: 8f307bb1-a933-4dcb-b7c7-6664f5519d3a')), true);
+        $url = $new->_cURL(WEBSITE, false, array('Content-Type: application/json','X-Auth-Token: '.TOKEN));
+        $obj = json_decode($url, true);
 
         $j = $obj['fullip']['badip'];
+
+        if (!is_array($j))
+            die('TOKEN '.TOKEN.' Inválido.');
+
         $score = $j['score'];
 
         if ($score !== 0) {
