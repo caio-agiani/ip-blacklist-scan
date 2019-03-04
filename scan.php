@@ -6,7 +6,6 @@
  * Website: https://apility.io/
  */
 
-
 extract($_GET);
 define('WEBSITE', 'https://api.apility.net/v2.0/ip/'. $ip .'?items=100');
 define('TOKEN', 'fbe33ac7-ee38-468d-bb07-37ceca3f317a');
@@ -16,6 +15,7 @@ if (isset($_GET['ip'])) {
     class iPScan {
 
         public function _cURL($url, $post = false, $header = array('')) {
+            
             $ch = curl_init();
             curl_setopt($ch, CURLOPT_URL, $url);
             curl_setopt($ch, CURLOPT_HTTPHEADER, $header);
