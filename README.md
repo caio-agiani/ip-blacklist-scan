@@ -1,16 +1,16 @@
-1 Step:
+1 Step (Register):
 
-Create your key: https://apility.io
+Create your key: https://dashboard.apility.io/#/register
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2 Step:
+2 Step (Get):
 
 URL/scan.php?ip=198.46.178.97
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-View:
+3 Step (View):
 
 198.46.178.97 WAS FOUND IN 7 BLACK LIST(S): STOPFORUMSPAM-180, IPCATV4-DC, CLEANTALK-ORG-7D, STOPFORUMSPAM-365, BOTSCOUT-30D BOTSCOUT-7D, CLEANTALK-ORG-30D
 
