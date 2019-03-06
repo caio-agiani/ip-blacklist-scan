@@ -3,7 +3,7 @@
 /** 
  * Author: Caio Agiani
  * Description: IP Blacklist abuse scan
- * Website: https://apility.io/
+ * Website: https://apility.io
  */
 
 extract($_GET);
