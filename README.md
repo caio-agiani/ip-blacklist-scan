@@ -1,17 +1,15 @@
-[![V0.1](https://apility.io/wp-content/uploads/2017/12/Apility-FINAL-hand-320x320-150x150.png)](https://github.com/caio-agiani/)
+[![Version: 1](https://apility.io/wp-content/uploads/2018/03/Apility-FINAL-w.png)](https://github.com/caio-agiani/)
 
 # 1 Step (Register):
 
 - **Create your key**
-    ```
-    https://dashboard.apility.io/#/register```
+    ```https://dashboard.apility.io/#/register```
 
 
 # 2 Step (GET):
 
 - **Usage**
-    ```
-    URL/scan.php?ip=198.46.178.97```
+    ```URL/scan.php?ip=198.46.178.97```
 
 # 3 Step (View):
 
