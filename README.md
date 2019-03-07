@@ -1,3 +1,10 @@
+# Smart and Readable Documentation for your PHP project
+
+[![Build Status](https://img.shields.io/travis/ApiGen/ApiGen/master.svg?style=flat-square)](https://travis-ci.org/ApiGen/ApiGen)
+[![Coverage Status](https://img.shields.io/coveralls/ApiGen/ApiGen/master.svg?style=flat-square)](https://coveralls.io/github/ApiGen/ApiGen?branch=master)
+[![Downloads](https://img.shields.io/packagist/dt/apigen/apigen.svg?style=flat-square)](https://packagist.org/packages/apigen/apigen/stats)
+[![Latest stable](https://img.shields.io/packagist/vpre/apigen/apigen.svg?style=flat-square)](https://packagist.org/packages/apigen/apigen)
+
 1 Step (Register):
 
 Create your key: https://dashboard.apility.io/#/register
