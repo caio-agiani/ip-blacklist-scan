@@ -1,15 +1,14 @@
-# Smart and Readable Documentation for your PHP project
+[![V0.1](view-source:https://apility.io/wp-content/uploads/2017/12/Apility-FINAL-hand-320x320-150x150.png)](https://github.com/caio-agiani/)
 
-[![Build Status](https://img.shields.io/travis/ApiGen/ApiGen/master.svg?style=flat-square)](https://travis-ci.org/ApiGen/ApiGen)
-
-1 Step (Register):
+# 1 Step (Register):
 
 Create your key: https://dashboard.apility.io/#/register
 
 
 # 2 Step (GET):
 
-```URL/scan.php?ip=198.46.178.97```
+- **Usage**
+    ```URL/scan.php?ip=198.46.178.97```
 
 # 3 Step (View):
 ```
