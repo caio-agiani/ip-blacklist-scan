@@ -20,9 +20,8 @@
     + IP was added to blacklist(s) -> [CLEANTALK-ORG-7D,CLEANTALK-ORG-1D,BOTSCOUT-7D,BOTSCOUT-30D,CLEANTALK-ORG-30D,STOPFORUMSPAM-365,STOPFORUMSPAM-180]
     ```
 
-- **new feature needs tests**
-- **all tests must pass**
+
+- **Usage Web**
     ```bash
-    composer complete-check
+    URL/scan.php?ip=198.46.178.97
     ```
-- **1 feature per PR**
