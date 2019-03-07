@@ -3,13 +3,15 @@
 # 1 Step (Register):
 
 - **Create your key**
-    ```https://dashboard.apility.io/#/register```
+    ```
+    https://dashboard.apility.io/#/register```
 
 
 # 2 Step (GET):
 
 - **Usage**
-    ```URL/scan.php?ip=198.46.178.97```
+    ```
+    URL/scan.php?ip=198.46.178.97```
 
 # 3 Step (View):
 
