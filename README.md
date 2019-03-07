@@ -1,5 +1,3 @@
-[![Version: 1](https://apility.io/wp-content/uploads/2018/03/Apility-FINAL-w.png)](https://github.com/caio-agiani/)
-
 # 1 Step (Register):
 
 - **Create your key**
@@ -14,8 +12,7 @@
 # 3 Step (View):
 
 - **Result**
-    ```
-    198.46.178.97 WAS FOUND IN 7 BLACK LIST(S): STOPFORUMSPAM-180, IPCATV4-DC, CLEANTALK-ORG-7D, STOPFORUMSPAM-365, BOTSCOUT-30D BOTSCOUT-7D, CLEANTALK-ORG-30D
+    ```198.46.178.97 WAS FOUND IN 7 BLACK LIST(S): STOPFORUMSPAM-180, IPCATV4-DC, CLEANTALK-ORG-7D, STOPFORUMSPAM-365, BOTSCOUT-30D BOTSCOUT-7D, CLEANTALK-ORG-30D
 
     IP address historic information: 
 
