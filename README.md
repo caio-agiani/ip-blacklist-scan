@@ -25,4 +25,3 @@
     - IP was removed from blacklist(s) -> [CLEANTALK-ORG-7D,BOTSCOUT-7D,BOTSCOUT-30D,CLEANTALK-ORG-30D,STOPFORUMSPAM-365,STOPFORUMSPAM-180]
     + IP was added to blacklist(s) -> [CLEANTALK-ORG-7D,CLEANTALK-ORG-1D,BOTSCOUT-7D,BOTSCOUT-30D,CLEANTALK-ORG-30D,STOPFORUMSPAM-365,STOPFORUMSPAM-180]
     ```
-------------------------------------------------------------------------------
