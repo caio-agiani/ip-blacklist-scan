@@ -1,4 +1,8 @@
-# 1 Step (Register):
+# bootcomp-gostack-9.0
+
+[![©Copyright: @caio-agiani](https://img.shields.io/badge/author-@rocketseat-purple.svg?style=flat)]
+
+### 1 Step (Register):
 
 - **Create your key**
     ```
@@ -6,7 +10,7 @@
     ```
 ------------------------------------------------------------------------------
 
-# 2 Step (GET):
+### 2 Step (GET):
 
 - **Usage Web**
     ```
@@ -14,7 +18,7 @@
     ```
 ------------------------------------------------------------------------------
 
-# 3 Step (View):
+### 3 Step (View):
 
 - **Result**
     ```
