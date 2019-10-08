@@ -1,6 +1,6 @@
 # blacklist ip scan
 
-[![©Copyright: @caio-agiani](https://img.shields.io/badge/author-@rocketseat-purple.svg?style=flat)](https://github.com/caio-agiani)
+[![©Copyright: @caio-agiani](https://img.shields.io/badge/%C2%A9-caio.caiu-purple.svg?style=flat)](https://github.com/caio-agiani)
 
 # How to use:
 
